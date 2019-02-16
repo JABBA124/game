@@ -1,1 +1,45 @@
-ellipse(200, 200, 30, 30);
+var pos = 0;
+
+draw = function() {
+background(255, 255, 255);
+
+       pos ++;
+        ellipse(pos, pos, 30, 30);
+
+if(pos > width) {
+pos = o;
+
+}
+
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
